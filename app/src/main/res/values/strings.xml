@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListEX</string>
+    <string name="Groseries">Groseries</string>
+    <string-array name="names">
+        <item>word</item>
+        <item>power point</item>
+        <item>excel</item>
+        <item>outlook</item>
+    </string-array>
+</resources>
